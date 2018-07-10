@@ -1,0 +1,1 @@
+Added newFile2.txt to myBranch2
